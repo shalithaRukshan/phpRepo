@@ -16,7 +16,7 @@ class Clazz {
 
   public static function foo(){
     if ($this->name != NULL) {
-      // ...
+      // .ssssssssssssssssssss..
     }
   }
 }
